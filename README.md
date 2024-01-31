@@ -1,0 +1,2 @@
+- solve the Clohessy-Wiltshire equations (Hill's equations) not using Numerical methods (for example, "ode45"), just using int or diff functions
+- specific conditions : Circlular Orbit, no External Forces
